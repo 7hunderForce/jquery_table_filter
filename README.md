@@ -1,1 +1,1 @@
-# jquery_table_filter
+# jQuery Table Filter
